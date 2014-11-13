@@ -9,9 +9,9 @@ Barebones multi-stream consumer for wikipedia/twitter/other things.
 
 To run:
 
-cd server
-npm install
-node app
+ cd server
+ npm install
+ node app
 
 ## Client
 
@@ -21,9 +21,10 @@ node app
 * Socket.IO
 
 To run: 
-cd client
-http-server
-and open a browser to localhost:8080
+
+ cd client;
+ http-server
+ and open a browser to localhost:8080
 
 # About
 
