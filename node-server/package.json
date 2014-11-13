@@ -1,8 +1,8 @@
 {
-  "name": "livementions-server",
+  "name": "wow-barebones-server",
   "version": "1.0.0",
-  "description": "livementions server",
-  "main": "app.js",
+  "description": "wow barebones client",
+  "main": "app.njs",
   "dependencies": {
     "socket.io": "^1.1.0",
     "twitter": "^0.2.12",
@@ -13,5 +13,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Daniel Alexander Smith <daniel@danielsmith.eu> (https://danielsmith.eu/)",
+  "author": "max van kleek <max@hip.cat> (https://hip.cat/emax)",
   "license": "ISC"
 }
